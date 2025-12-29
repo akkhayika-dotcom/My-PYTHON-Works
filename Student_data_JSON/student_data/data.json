@@ -1,0 +1,32 @@
+[
+    {
+        "name": "xx",
+        "age": "67",
+        "class": "7",
+        "marks": {
+            "maths": 89,
+            "science": 98,
+            "english": 90
+        }
+    },
+    {
+        "name": "cc",
+        "age": "45",
+        "class": "6",
+        "marks": {
+            "maths": 78,
+            "science": 87,
+            "english": 88
+        }
+    },
+    {
+        "name": "vv",
+        "age": "66",
+        "class": "78",
+        "marks": {
+            "maths": 88,
+            "science": 88,
+            "english": 88
+        }
+    }
+]
